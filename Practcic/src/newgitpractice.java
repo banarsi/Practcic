@@ -1,4 +1,6 @@
 
-public class newgitpractice {
+public class newgitpractice 
+
+{
 
 }
